@@ -48,7 +48,7 @@ A simple circuit demonstrating how to interface a PIC16F627 microcontroller with
 
 ## Firmware
 - The microcontroller reads data from the DHT11 sensor and displays it on the LCD.
-- Written in Assembly using [pic-as(v3.0)](https://www.microchip.com/mplab/compilers).
+- Written in Assembly using [pic-as (v3.0)](https://www.microchip.com/mplab/compilers).
 - **Key Dependencies**:
   - `main.asm`
 
