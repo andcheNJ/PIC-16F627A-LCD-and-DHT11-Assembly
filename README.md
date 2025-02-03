@@ -60,6 +60,6 @@ A simple circuit demonstrating how to interface a PIC16F627 microcontroller with
 ---
 
 ## Schematic Details
-- **KiCad Version**: 8.0
+- **EasyEDA Pro**: 
 
 
