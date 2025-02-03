@@ -1,6 +1,6 @@
 # PIC16F627 with DHT11 Sensor and 1602 LCD (4-Bit Mode). Assembly
 
-![Circuit Schematic](PIC16F627_LCD_DHT11.pdf) 
+![Circuit Schematic](PIC16F627_LCD_DHT11.png) 
 
 A simple circuit demonstrating how to interface a PIC16F627 microcontroller with a DHT11 temperature/humidity sensor and a 1602 LCD in 4-bit mode. Includes a potentiometer for LCD contrast adjustment.
 
